@@ -1,5 +1,5 @@
-# UUID          Group Name
-6ddfecad023c6f4fa3ac8c4d2583c502ea675a73 	Non-Interactive Users
-fd7ef488d64da09e48636f0729e569d3fca3c70d       	puppet-neutron-distgit-core
-7ea486052fdfcdce7ffc4cd0033b6712fe4fa180        	puppet-neutron-distgit-ptl
-global:Registered-Users		Registered Users
+# UUID                                  	Group Name
+#
+7ea486052fdfcdce7ffc4cd0033b6712fe4fa180	puppet/puppet-neutron-distgit-ptl
+fd7ef488d64da09e48636f0729e569d3fca3c70d	puppet-neutron-distgit-core
+global:Registered-Users                 	Registered Users
