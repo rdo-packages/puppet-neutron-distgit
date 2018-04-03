@@ -51,3 +51,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/neutron/
 %changelog
 
 
+# REMOVEME: error caused by commit http://git.openstack.org/cgit/openstack/puppet-neutron/commit/?id=550b5dde7b1df867b5be63661bcd588bd0106889
