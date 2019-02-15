@@ -1,6 +1,6 @@
 %{!?upstream_version: %global upstream_version %{version}%{?milestone}}
 Name:           puppet-neutron
-Version:        12.4.0
+Version:        12.4.1
 Release:        1%{?dist}
 Summary:        Puppet module for OpenStack Neutron
 License:        ASL 2.0
@@ -49,6 +49,9 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/neutron/
 
 
 %changelog
+* Fri Feb 15 2019 RDO <dev@lists.rdoproject.org> 12.4.1-1
+- Update to 12.4.1
+
 * Thu Mar 29 2018 RDO <dev@lists.rdoproject.org> 12.4.0-1
 - Update to 12.4.0
 
