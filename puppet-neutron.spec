@@ -53,4 +53,3 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/neutron/
 - Update to 15.4.0
 
 
-
