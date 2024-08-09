@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8159d30b_74a4e947",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 128
+      },
+      "writtenOn": "2024-08-09T07:31:16Z",
+      "side": 1,
+      "message": "upstream release jobs for puppet-neutron has failed. It\u0027s being fixed in https://review.opendev.org/c/openstack/project-config/+/925986",
+      "revId": "b11aafd0ae6dd24f3dddb2897d0afd92060a5dd6",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    }
+  ]
+}
