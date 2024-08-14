@@ -30,7 +30,6 @@ Requires:       puppet-nova
 Requires:       puppet-openstacklib
 Requires:       puppet-oslo
 Requires:       puppet-stdlib
-Requires:       puppet-sysctl
 Requires:       puppet-vswitch
 Requires:       puppet >= 2.7.0
 
